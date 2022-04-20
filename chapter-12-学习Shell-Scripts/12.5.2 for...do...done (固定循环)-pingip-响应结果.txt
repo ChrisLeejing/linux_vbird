@@ -1,0 +1,5 @@
+PING 10.28.2.244 (10.28.2.244) 56(84) bytes of data.
+
+--- 10.28.2.244 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
